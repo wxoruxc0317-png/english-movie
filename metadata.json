@@ -1,0 +1,8 @@
+{
+  "name": "SceneLines",
+  "description": "Turn English expressions learned from movies into a 30-second animated clip with natural English voice and subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
